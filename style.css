@@ -1,0 +1,19 @@
+.h1center {
+  color: #3498db;
+  font-kerning: auto;
+  letter-spacing: 0.2rem;
+  text-transform: lowercase;
+  font-family: 'Cabin Sketch', cursive;
+  font-weight: 400;
+  margin-left: 2%;
+  margin-top: 3%;
+}
+
+.funfont {
+  font-family: 'Josefin Sans', sans-serif;
+}
+
+.hellablu {
+  background-color: #3498db;
+  color: #ffffff;
+}
